@@ -1,0 +1,14 @@
+[
+  {
+    "ParameterKey": "RepositoryName",
+    "ParameterValue": "the-cf-workshop"
+  },
+  {
+    "ParameterKey": "RepositoryOwner",
+    "ParameterValue": "pbc0810"
+  },
+  {
+    "ParameterKey": "GithubAccessToken",
+    "ParameterValue": "1306c6ceb3c4d435f6a79265a523690cc1c7664a"
+  }
+]
